@@ -1,8 +1,11 @@
 function template(answers) {
 return `
-## ${answers.title} ![badge](https://badgen.net/badge/License/${answers.license}/blue)
+<h1 align="center">${answers.title} </h1>
 
+## License ![badge](https://badgen.net/badge/License/${answers.license}/blue)
+This project is covered under the ${answers.license} license. 
 <a name="Description"></a>
+
 ## Description
 ${answers.desc}
 
