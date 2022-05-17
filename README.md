@@ -21,7 +21,7 @@ A node js project that asks the user to answer questions about their project and
 <a name="Installation-Instructions"></a>   
 ## Installation Instructions
 Fork this repository, open the terminal in the folder containing the project files, install npm using "npm init -y", install inquirer using "npm i inquirer"
-An example readme can be found in the assets folder or by clicking [here](https://www.youtube.com/watch?v=fFHxt2XaR08](https://github.com/ElliottLi97/Readme-Generator/blob/main/assets/Example-README/examplereadme.md).
+An example readme can be found in the assets folder or by clicking [here](https://github.com/ElliottLi97/Readme-Generator/blob/main/assets/Example-README/examplereadme.md).
 <a name="Usage-Information"></a>   
 ## Usage Information
 Open the terminal in the folder containing the project files, run the command "node prompt.js", and answer the questions 
