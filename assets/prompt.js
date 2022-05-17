@@ -84,7 +84,7 @@ inquirer
         }
     ])
     .then((answers) =>
-        fs.writeFile("readme.md", template(answers),
+        fs.writeFile("./Example-README/examplereadme.md", template(answers),
         (err) =>
             err ? console.error(err) : console.log('Commit logged!')))
 
